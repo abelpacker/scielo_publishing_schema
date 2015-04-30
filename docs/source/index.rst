@@ -114,14 +114,14 @@ Para cada elemento descrito, há uma lista de definições no formato::
 
   Ocorre
     Uma vez
-
+[[retomando a edição]]
 
 Onde:
 
 * **Aparece em**: Apresenta o contexto (elemento-pai) onde o elemento em foco é comumente 
-  identificado. O fato de um determinado contexto não constar nesta lista não 
-  o exclui automaticamente, e a especificação JATS Publishing deve ser consultada.
-* **Atributos obrigatórios**: Apresenta apenas os atributos onde, no caso da 
+  identificado. O fato de um determinado contexto não constar nesta lista [[qual lista]] não 
+  o exclui automaticamente e a especificação JATS Publishing deve ser consultada.
+* **Atributos obrigatórios**: Apresenta apenas os atributos que, no caso da 
   presença do elemento, devem ser marcados obrigatoriamente. Esta definição pode vir 
   acompanhada de seus valores, também obrigatórios. Caso não existam atributos 
   obrigatórios, este item é omitido.
@@ -144,7 +144,7 @@ Documentação narrativa
 Lista de elementos
 ------------------
 
-A seguir os elementos do XML que apresentam regras de estilo na 
+A seguir são listados os elementos do XML que apresentam regras de estilo na 
 especificação :term:`SciELO PS`. Note que esta não é a lista completa dos elementos 
 XML que compõem o :term:`tag set` JATS Publishing versão 1.0 ou PMC versão 3.0, e 
 não elimina a necessidade de consultar suas respectivas documentações.
