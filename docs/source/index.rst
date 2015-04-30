@@ -13,7 +13,7 @@ Versões anteriores:
 Introdução
 ----------
 
-Este guia de uso descreve o estilo de marcação adotado pelo projeto SciELO para
+Este guia descreve o estilo de marcação adotado pelo Programa SciELO para
 a submissão de documentos no formato XML. 
 
 A especificação :term:`SciELO Publishing Schema` — também chamada :term:`SciELO PS` — é composta 
@@ -37,12 +37,12 @@ Notas da versão
 ---------------
 
 Novas versões serão disponibilizadas em um calendário fixo, a cada seis meses. 
-Versões de correção serão disponibilizadas sob demanda, e serão identificadas 
+Versões de correção serão disponibilizadas sob demanda e serão identificadas 
 no terceiro dígito identificador da versão. e.g.: versão *1.1.1*.
 
 Duas versões são suportadas simultaneamente, a mais recente e a imediatamente
 anterior. Essa medida garante um ciclo de vida de 1 ano para cada versão. Por
-**suportar** entenda manter a documentação, ferramentas de apoio, ingresso no 
+**suportar** entende-se manter a documentação, ferramentas de apoio, ingresso no 
 processo de submissão e comunidade de usuários.
 
 
@@ -75,7 +75,7 @@ formato XML.
 Metadados dos periódicos
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-Adicionalmente, diversos metadados dos periódicos necessários para a identificação de 
+Adicionalmente [[adicionalmente a/ao quê]], diversos metadados de periódicos necessários para a identificação de 
 elementos em ``<journal-meta>`` estão disponíveis em uma listagem no formato :term:`csv`, 
 que pode ser baixada `aqui <http://static.scielo.org/sps/titles-tab-utf-8.csv>`_. 
 Esta listagem é atualizada semanalmente, às terças-feiras.
@@ -84,7 +84,7 @@ Esta listagem é atualizada semanalmente, às terças-feiras.
 Convenções utilizadas neste guia
 --------------------------------
 
-A fim de facilitar a compreensão deste guia, foram utilizadas algumas
+A fim de facilitar o uso deste guia, foram utilizadas algumas
 convenções de estilo e formatação.
 
 .. note:: Estas caixas apresentam informação importante e diretamente relacionada ao contexto
@@ -93,7 +93,7 @@ convenções de estilo e formatação.
 
 *Itálico*
   Utilizado para nomes de arquivos, normas, URLs, referências ativas a elementos do XML 
-  (hiperlinks) ou para introduzir novos termos.
+  (hiperlinks) e novos termos.
 
 **Negrito**
   Utilizado para identificar textos que devem ser substituídos por valores fornecidos
